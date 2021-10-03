@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable-v24/btn_update_solid_normal.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/back.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/btn_login_outline.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/btn_login_outline_normal.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/btn_login_solid.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/btn_login_solid_disabled.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/btn_login_solid_normal.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/btn_update_outline.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/btn_update_solid.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/btn_update_solid_normal.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/chk_primary.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/csr_primary.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/edit_login.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/edit_login_primary.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/drawable/layout_corner.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/layout/activity_login.xml" value="0.21014492753623187" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/layout/activity_update.xml" value="0.264" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/layout/dialog_update.xml" value="0.2" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/layout/fragment_login.xml" value="0.20018115942028986" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/layout/fragment_register.xml" value="0.19429347826086957" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/layout/fragment_update.xml" value="0.23007246376811594" />
+        <entry key="..\:/Projects/App/HIT-B02-340/app/src/main/res/layout/layout_update.xml" value="0.23007246376811594" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.21014492753623187" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

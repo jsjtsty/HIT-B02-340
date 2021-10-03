@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name" translatable="false">HIT-B02-340</string>
+    <string name="server_jb" translatable="false">http://49.232.80.216/hit/jb.php</string>
+    <string name="server_clock" translatable="false">http://49.232.80.216/hit/clock.php</string>
+    <string name="server_login" translatable="false">http://49.232.80.216/hit/login.php</string>
+    <string name="version_string">v0.1.11</string>
+
+    <string name="err_ok">OK</string>
+    <string name="err_user_not_exist">User does not exist</string>
+    <string name="err_wrong_password">Wrong password</string>
+    <string name="err_script_error">PHP Script Error: %s</string>
+    <string name="err_invalid_request">Invalid request</string>
+    <string name="err_priority">Not enough priority, access denied</string>
+    <string name="err_high_protocol">Invalid protocol version.</string>
+    <string name="err_low_protocol">Low protocol version. Please update your app.</string>
+    <string name="err_invalid_sql_connection">Failed to connect to sql.</string>
+    <string name="err_sql_exception">SQL Error: %s</string>
+    <string name="err_invalid_token">Invalid token: %s</string>
+    <string name="err_invalid_invite_code">Invalid invite code</string>
+    <string name="err_invite_code_used_up">Invite code used up</string>
+    <string name="err_invite_code_blocked">Invite code blocked</string>
+    <string name="txt_login">Sign In</string>
+    <string name="txt_register">Sign Up</string>
+    <string name="txt_user_name">User Name</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_invite_code">Invite Code</string>
+    <string name="txt_copyright" translatable="false">Copyright (C) NulStudio 2014-2021</string>
+    <string name="txt_back_login">Back to Login</string>
+    <string name="err_user_already_exist">User already exists</string>
+    <string name="server_update" translatable="false">http://49.232.80.216/hit/update.php</string>
+    <string name="str_download_title">Update \'HIT-B02-340\'</string>
+    <string name="str_download_description">Downloading update package...</string>
+    <string name="txt_update">Update %s Available</string>
+    <string name="key_preference_file" translatable="false">com.nulstudio.hit_b02_340.PREFERENCE_FILE_KEY</string>
+    <string name="txt_update_size">Update Size: %dM</string>
+    <string name="txt_update_attr">New features: %s</string>
+    <string name="txt_perform_update">Update</string>
+    <string name="txt_update_cancel">Dismiss Update</string>
+    <string name="txt_update_downloading">Downloading Update...</string>
+    <string name="title_activity_main_page">MainPageActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
